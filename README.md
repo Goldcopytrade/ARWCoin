@@ -1,4 +1,4 @@
-# ARWCoin Driving Innovation In Web3 Technology
+# ARWCoin. Ultimate For Building In DEFI Technologies
 <div align="center"><img src="https://www.aerawan.com/wp-content/uploads/2024/06/GHOI.jpg" /><br />
 </div>
 <div align="center">
