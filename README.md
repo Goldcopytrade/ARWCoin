@@ -1,5 +1,5 @@
 # PSTCoin Driving Innovation In Web3 Technology
-<div align="center"><img src="https://pstcoin.com/wp-content/uploads/2024/04/logo-pst.fw_.png" /><br />
+<div align="center"><img src="https://www.aerawan.com/wp-content/uploads/2024/06/GHOI.jpg" /><br />
 </div>
 <div align="center">
   <h1><br />
