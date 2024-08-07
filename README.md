@@ -1,5 +1,5 @@
 # ARWCoin. Ultimate For Building In DEFI Technologies
-<div align="center"><img src="https://www.aerawan.com/wp-content/uploads/2024/06/GHOI.jpg" /><br />
+<div align="center"><img src="https://arawancoin.com/wp-content/uploads/2024/06/GHOI.jpg" /><br />
 </div>
 <div align="center">
   <h1><br />
@@ -22,9 +22,9 @@ ARWCoin lets users swap BEP-20 coins without the need to go through a Centralize
 
 JOIN US
 
-⭕ Website: https://www.aerawan.com
+⭕ Website: https://arawancoin.com
 
-📄 Whitepaper : https://docs.aerawan.com
+📄 Whitepaper : https://docs.arawancoin.com
 
 👨🏿‍🤝‍👨🏿Twitter : https://x.com/ARW_Coin
 
