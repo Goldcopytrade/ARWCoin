@@ -24,7 +24,7 @@ JOIN US
 
 ⭕ Website: https://arawancoin.com
 
-📄 Whitepaper : https://docs.arawancoin.com
+📄 Whitepaper : https://whitepaper.arawancoin.com
 
 👨🏿‍🤝‍👨🏿Twitter : https://x.com/ARW_Coin
 
